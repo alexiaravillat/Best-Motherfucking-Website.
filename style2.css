@@ -1,0 +1,23 @@
+#header {
+	font-family: Open sans, Arial;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 1.4;
+	font-size: 16px;
+	color: #454545;
+ }
+
+}
+a:visited{
+	color: blue;
+ }
+
+#content {
+	margin-left: 260px;
+	line-height:1.2;
+}
+
+#color {
+	color: #c0392b
+}
